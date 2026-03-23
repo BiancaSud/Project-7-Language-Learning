@@ -726,7 +726,6 @@ footer{
         width: 300px;
     }
     #reviews h1{
-        border: 1px solid pink;
         display: flex;
         flex-wrap: wrap;
         text-align: center;
@@ -735,7 +734,7 @@ footer{
        width: 300px;
     }
     footer{
-        height: 85vh;
+        height: 100px;
     }
     .footer-bottom{
         text-align: center;
